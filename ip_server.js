@@ -19,5 +19,5 @@ app.get("/", (_, res) => {
     }
 });
 
-// Listen on port 3000
-app.listen(3000, () => console.log("Application running on port 3000"));
+// Listen on port 8080
+app.listen(8080, () => console.log("Application running on port 8080"));
